@@ -14,12 +14,12 @@ A tutorial to explain resolution in imaging
         - [ ] Image analysis
             
 ## How to measure the resolution
-    - [ ] Test patterns, line pairs, Siemens star, line patterns
-    - [ ] Edge response
-        - [ ] FWHM - fit Voigt function (approximate vs exact) https://scipython.com/book/chapter-8-scipy/examples/the-voigt-profile/ 
-        - [ ] MTF - levels and what they mean
-            - [ ] What does the FFT x-axis mean
-    - [ ] Fourier ring correlation
+- [ ] Test patterns, line pairs, Siemens star, line patterns
+- [ ] Edge response
+    - [ ] FWHM - fit Voigt function (approximate vs exact) https://scipython.com/book/chapter-8-scipy/examples/the-voigt-profile/ 
+    - [ ] MTF - levels and what they mean
+        - [ ] What does the FFT x-axis mean
+- [ ] Fourier ring correlation
     
 ## Misc
 - [ ] Quantum efficiency 
