@@ -5,6 +5,10 @@ A tutorial to explain resolution in imaging
 - [ ] What is the pixel size made up of?
 - [ ] What is resolution
 
+<a href="https://colab.research.google.com/github/ImagingELearning/resolution/blob/main/tutorials/01_Introduction/01_Resolution_Introduction.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## How to measure the pixel size
 - [ ] Devices to measure the pixel size
 - [ ] Method to measure the pixel size
@@ -26,3 +30,7 @@ A tutorial to explain resolution in imaging
 - [ ] Edge spread from different scintillator materials
 - [ ] Resolution and noise
 
+
+```python
+
+```
