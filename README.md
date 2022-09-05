@@ -16,7 +16,11 @@ A tutorial to explain resolution in imaging
     - [ ] Automated
         - [ ] the geometry math
         - [ ] Image analysis
-            
+
+<a href="https://colab.research.google.com/github/ImagingELearning/resolution/blob/main/tutorials/02_PixelSize/02_PixelSize.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+       
 ## How to measure the resolution
 - [ ] Test patterns, line pairs, Siemens star, line patterns
 - [ ] Edge response
