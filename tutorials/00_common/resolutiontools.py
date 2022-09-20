@@ -20,10 +20,12 @@ def pointDistance(coefs,r,c) :
     d=-(r*coefs[0]-c+coefs[1])/np.sqrt(coefs[0]**2+1.0)
     
     return d
-    
+
 def computeDistanceField(coefs,size) :
     r,c=np.meshgrid(np.arange(0,size[1]), np.arange(0,size[0]))
     
     d=-(c*coefs[0]-r+coefs[1])/np.sqrt(coefs[0]**2+1.0)
     
     return d
+
+
