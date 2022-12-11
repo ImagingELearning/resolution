@@ -21,7 +21,7 @@ A tutorial to explain resolution in imaging
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
        
-## How to measure the resolution
+## How to measure the resolution (under development)
 - Test patterns, line pairs, Siemens star, line patterns
 - Edge response
     - FWHM - fit Voigt function (approximate vs exact) https://scipython.com/book/chapter-8-scipy/examples/the-voigt-profile/ 
