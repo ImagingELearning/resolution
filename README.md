@@ -26,7 +26,7 @@ A tutorial to explain resolution in imaging
 - Edge response
     - FWHM - fit Voigt function (approximate vs exact) https://scipython.com/book/chapter-8-scipy/examples/the-voigt-profile/ 
     - MTF - levels and what they mean
-        
+
 <a href="https://colab.research.google.com/github/ImagingELearning/resolution/blob/main/tutorials/03_Resolution/03_Resolution.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
