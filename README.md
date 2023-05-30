@@ -1,4 +1,9 @@
 # Resolution, pixel size, and sampling
+
+<a href="https://github.com/ImagingELearning/resolution" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Open repository"/>
+</a>
+
 A tutorial to explain resolution in imaging
 
 ## The relation between pixel size, sampling, and resolution
